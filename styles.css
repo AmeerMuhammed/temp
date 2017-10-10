@@ -1,0 +1,35 @@
+body{
+	background-image: url("./cover3.jpg");
+/*	background-repeat: no-repeat;
+	background-size: auto; */
+}
+
+
+
+.text1{
+	margin: 0px auto;
+	/*color: white;*/
+	text-align: center;
+}
+
+.text{
+	margin-top: 220px;
+	text-align: center;
+	font-size: 60px;
+	margin-left: 18px;
+	font-weight: 700;
+	color: white;
+}
+
+section{
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+
+
+
+
+
