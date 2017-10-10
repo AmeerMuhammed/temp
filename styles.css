@@ -1,7 +1,7 @@
 body{
 	background-image: url("./cover3.jpg");
 	background-repeat: no-repeat;
-	background-size: inherit; 
+	background-size: length; 
 }
 
 
